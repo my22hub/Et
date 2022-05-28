@@ -1,6 +1,7 @@
 [build]
 
 base = "website/"
+publish = "public/"
 command = "next build"
 
 [[plugin]]
