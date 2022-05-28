@@ -1,0 +1,7 @@
+[build]
+
+base = "website/"
+command = "next build"
+
+[[plugin]]
+ package = ""
