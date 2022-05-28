@@ -4,4 +4,4 @@ base = "website/"
 command = "next build"
 
 [[plugin]]
- package = ""
+ package = "@netlify/plugin-nextjs"
