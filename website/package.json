@@ -1,11 +1,11 @@
 {
     "name": "website",
     "version": "1.0.0",
-    "description": "hacker news clone",
+    "description": "hacker news I",
     "main": "index.js",
     "scripts": {
         "dev": "next",
-        "build": "next build && next export",
+        "build": "next build",
         "start": "next start -p $PORT"
     },
     "keywords": [],
